@@ -1,6 +1,6 @@
 <?php
 
-//Définition de la classe Article
+//Déf de la classe Article
 
 class Article {
 	//Attributs
